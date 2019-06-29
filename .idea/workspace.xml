@@ -39,13 +39,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="155">
+              <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
               <folding>
                 <element signature="n#style#0;n#center#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#center#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h4#0;n#center#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h6#0;n#center#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h6#1;n#center#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h5#0;n#center#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
@@ -313,12 +314,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561768790238</updated>
-      <workItem from="1561768792837" duration="7280000" />
+      <workItem from="1561768792837" duration="7571000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7280000" />
+    <option name="totallyTimeSpent" value="7571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -395,13 +396,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="155">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
           <folding>
             <element signature="n#style#0;n#center#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#center#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h4#0;n#center#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h6#0;n#center#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h6#1;n#center#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h5#0;n#center#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
