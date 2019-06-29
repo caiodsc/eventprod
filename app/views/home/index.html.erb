@@ -1,9 +1,25 @@
-<% image_tag "image.jpg" %>
 
+<style>
+  html { height:100%; }
+  body { position:absolute; top:0; bottom:0; right:0; left:0; }
+  html {
+    overflow: hidden;
+    width: 100%;
+  }
+
+  body {
+    height: 100%;
+    position: fixed;
+    /* prevent overscroll bounce*/
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    /* iOS velocity scrolling */
+  }
+</style>
 <center>
-  <div class="center">
+  <h3 class="center deep-purple-text text-darken-4">
     Estamos em Manutenção
-  </div>
+  </h3>
   <div class="center">
     Foi mal galera, mas estamos melhorando o funcionamento dos processos.
   </div>
