@@ -50,12 +50,12 @@
 
 <script>
     $(document).ready(function(){
-        if(window.orientation == 90 || window.orientation == -90){
+        if(window.orientation != 0){
           $("#img1")[0].style.opacity = 0.1;
           $("#img2")[0].style.opacity = 0.1;
         }
         $(window).on("orientationchange",function(){
-            if(window.orientation == 90 || window.orientation == -90){
+            if(window.orientation != 0){
                 $("#img1")[0].style.opacity = 0.1;
                 $("#img2")[0].style.opacity = 0.1;
             } else {
